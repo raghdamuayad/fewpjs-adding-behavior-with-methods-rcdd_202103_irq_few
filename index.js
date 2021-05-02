@@ -9,12 +9,12 @@
       speak.cat();
       }
 
-     //speak() {
+     speak() {
 
 
-    //return `${this.name} says meow!`;
-//}
-//console.log(speak.cat());
+    return `${this.name} says meow!`;
+      }
+console.log(speak.cat());
   // }
 
 
