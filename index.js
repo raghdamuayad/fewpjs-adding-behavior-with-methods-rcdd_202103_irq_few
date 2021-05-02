@@ -6,7 +6,7 @@
       this.sex = sex;
 
       const cat = new Cat("Sasha", "female")
-      
+
 
       }
 
