@@ -1,13 +1,13 @@
 // Your code here
 
- //class cat {
-  //    constructor(name, sex) {
-    //   this.name = name;
-      //  this.sex = sex;
+ class Cat {
+     constructor(name, sex) {
+     this.name = name;
+      this.sex = sex;
 
-//        let cat = new Cat("Sasha", "female")
-    //   speak.cat();
-    //}
+      let cat = new Cat("Sasha", "female")
+      speak.cat();
+      }
 
      //speak() {
 
@@ -27,7 +27,7 @@
   //newDog() {
       //  return `${this.name} says woof!`;
     //  let  dog = newDog("Rufio", "male")
-  //  }
+  // }
 class Bird {
   constructor(name,sex) {
     this.name = name;
