@@ -1,18 +1,17 @@
 // Your code here
 
- class cat {
+ class Cat {
      constructor(name, sex) {
      this.name = name;
       this.sex = sex;
 
-      const cat = new Cat("Sasha", "female")
-         speak.cat();
-
+      let cat = new Cat("Sasha", "female")
+      speak.cat();
       }
 
      speak() {
 
-   console.log(speak.cat());
+   return this.name + " " +"says meow!";
       }
 
    }
