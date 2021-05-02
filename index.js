@@ -5,13 +5,14 @@
      this.name = name;
       this.sex = sex;
 
-      let cat = new Cat("Sasha", "female")
-      speak.cat();
+      
       }
 
      speak() {
 
    return this.name + " " +"says meow!";
+   let cat = new Cat("Sasha", "female")
+   speak.cat();
       }
 
    }
