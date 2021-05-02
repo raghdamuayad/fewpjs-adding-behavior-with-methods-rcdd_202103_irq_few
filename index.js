@@ -18,16 +18,7 @@
    }
 
 
-//class Dog {
-       //constructor(name, sex) {
-      //   this.name = name;
-         //this.sex = sex;
-      // }
 
-  //newDog() {
-      //  return `${this.name} says woof!`;
-    //  let  dog = newDog("Rufio", "male")
-  // }
   class Dog {
       constructor(name, sex) {
       this.name = name;
@@ -44,7 +35,6 @@
        }
 
     }
-
 
 
 
