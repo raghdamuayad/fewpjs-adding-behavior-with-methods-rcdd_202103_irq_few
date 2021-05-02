@@ -37,7 +37,7 @@ class Bird {
     return "It's me!"+" "+this.name + "," +"the parrot!"
       const bird = new Bird("Pablo", "male")
   }else {
-        return this.name + " " + "says" + " " +"squavk!";
+        return this.name + " " + "says" + " " +"squawk!";
           const  bird2 = new Bird("Mable", "female")
   }
   }
