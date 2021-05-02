@@ -28,6 +28,26 @@
       //  return `${this.name} says woof!`;
     //  let  dog = newDog("Rufio", "male")
   // }
+  class Dog {
+      constructor(name, sex) {
+      this.name = name;
+       this.sex = sex;
+
+
+       }
+
+      speak() {
+
+    return this.name + " " +"says woof!";
+    let dog = new Dog("Sasha", "female")
+    speak.dog();
+       }
+
+    }
+
+
+
+  
 class Bird {
   constructor(name,sex) {
     this.name = name;
