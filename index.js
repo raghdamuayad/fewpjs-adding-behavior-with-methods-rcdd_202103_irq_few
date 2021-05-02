@@ -7,7 +7,7 @@
 
       let cat = new Cat("Sasha", "female")
       speak.cat();
-      
+
       }
 
      speak() {
