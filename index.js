@@ -11,10 +11,9 @@
 
      speak() {
 
-
-    return `${this.name} says meow!`;
+   console.log(speak.cat());
       }
-console.log(speak.cat());
+
   // }
 
 
