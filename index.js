@@ -14,7 +14,7 @@
    console.log(speak.cat());
       }
 
-  // }
+   }
 
 
 //class Dog {
