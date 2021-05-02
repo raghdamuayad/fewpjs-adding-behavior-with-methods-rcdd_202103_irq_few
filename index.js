@@ -6,7 +6,7 @@
       this.sex = sex;
 
       const cat = new Cat("Sasha", "female")
-      speak.cat();
+      
 
       }
 
@@ -14,7 +14,7 @@
 
    console.log(speak.cat());
       }
-
+speak.cat();
    }
 
 
